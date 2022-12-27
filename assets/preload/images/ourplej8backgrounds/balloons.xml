@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="balloons.png">
+	<!-- Created with Adobe Animate version 22.0.7.214 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="balloons0000" x="4" y="4" width="451" height="739" frameX="0" frameY="-26" frameWidth="451" frameHeight="791"/>
+	<SubTexture name="balloons0001" x="4" y="4" width="451" height="739" frameX="0" frameY="-26" frameWidth="451" frameHeight="791"/>
+	<SubTexture name="balloons0002" x="459" y="4" width="431" height="791" frameX="-10" frameY="0" frameWidth="451" frameHeight="791"/>
+	<SubTexture name="balloons0003" x="459" y="4" width="431" height="791" frameX="-10" frameY="0" frameWidth="451" frameHeight="791"/>
+	<SubTexture name="balloons0004" x="894" y="4" width="435" height="783" frameX="-8" frameY="-4" frameWidth="451" frameHeight="791"/>
+	<SubTexture name="balloons0005" x="894" y="4" width="435" height="783" frameX="-8" frameY="-4" frameWidth="451" frameHeight="791"/>
+	<SubTexture name="balloons0006" x="894" y="4" width="435" height="783" frameX="-8" frameY="-4" frameWidth="451" frameHeight="791"/>
+	<SubTexture name="balloons0007" x="894" y="4" width="435" height="783" frameX="-8" frameY="-4" frameWidth="451" frameHeight="791"/>
+</TextureAtlas>

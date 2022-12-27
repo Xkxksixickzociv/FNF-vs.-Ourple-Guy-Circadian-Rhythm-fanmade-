@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="sim_speaker.png">
+	<!-- Created with Adobe Animate version 22.0.7.214 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="speakers0000" x="4" y="4" width="391" height="533" frameX="-8" frameY="0" frameWidth="407" frameHeight="533"/>
+	<SubTexture name="speakers0001" x="4" y="4" width="391" height="533" frameX="-8" frameY="0" frameWidth="407" frameHeight="533"/>
+	<SubTexture name="speakers0002" x="399" y="4" width="401" height="521" frameX="-3" frameY="-12" frameWidth="407" frameHeight="533"/>
+	<SubTexture name="speakers0003" x="399" y="4" width="401" height="521" frameX="-3" frameY="-12" frameWidth="407" frameHeight="533"/>
+	<SubTexture name="speakers0004" x="804" y="4" width="407" height="516" frameX="0" frameY="-17" frameWidth="407" frameHeight="533"/>
+	<SubTexture name="speakers0005" x="804" y="4" width="407" height="516" frameX="0" frameY="-17" frameWidth="407" frameHeight="533"/>
+	<SubTexture name="speakers0006" x="1215" y="4" width="407" height="515" frameX="0" frameY="-18" frameWidth="407" frameHeight="533"/>
+	<SubTexture name="speakers0007" x="1626" y="4" width="407" height="515" frameX="0" frameY="-18" frameWidth="407" frameHeight="533"/>
+</TextureAtlas>

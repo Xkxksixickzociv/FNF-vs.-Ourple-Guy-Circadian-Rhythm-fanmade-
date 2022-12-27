@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="simpaperpals.png">
+	<!-- Created with Adobe Animate version 22.0.7.214 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="paperpals0000" x="4" y="4" width="507" height="467" frameX="0" frameY="-20" frameWidth="507" frameHeight="487"/>
+	<SubTexture name="paperpals0001" x="4" y="4" width="507" height="467" frameX="0" frameY="-20" frameWidth="507" frameHeight="487"/>
+	<SubTexture name="paperpals0002" x="4" y="4" width="507" height="467" frameX="0" frameY="-8" frameWidth="507" frameHeight="487"/>
+	<SubTexture name="paperpals0003" x="4" y="4" width="507" height="467" frameX="0" frameY="-8" frameWidth="507" frameHeight="487"/>
+	<SubTexture name="paperpals0004" x="4" y="4" width="507" height="467" frameX="0" frameY="-2" frameWidth="507" frameHeight="487"/>
+	<SubTexture name="paperpals0005" x="4" y="4" width="507" height="467" frameX="0" frameY="-2" frameWidth="507" frameHeight="487"/>
+	<SubTexture name="paperpals0006" x="4" y="475" width="507" height="467" frameX="0" frameY="0" frameWidth="507" frameHeight="487"/>
+	<SubTexture name="paperpals0007" x="4" y="475" width="507" height="467" frameX="0" frameY="0" frameWidth="507" frameHeight="487"/>
+</TextureAtlas>
