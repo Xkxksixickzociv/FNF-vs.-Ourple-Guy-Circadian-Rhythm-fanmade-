@@ -1,0 +1,2 @@
+value1 = zoom intensity
+value2 = angle intensity

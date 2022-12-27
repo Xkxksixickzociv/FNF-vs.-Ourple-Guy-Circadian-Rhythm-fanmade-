@@ -1,0 +1,2 @@
+value1 - tween amount
+value2 - tween time

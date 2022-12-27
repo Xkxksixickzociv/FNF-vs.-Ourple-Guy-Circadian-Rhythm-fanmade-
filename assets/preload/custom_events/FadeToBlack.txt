@@ -1,0 +1,2 @@
+if value1 > 0 - time to fade to darkness
+if value1 = 0 - disable darkness
