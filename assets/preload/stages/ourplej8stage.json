@@ -1,0 +1,11 @@
+{
+	"directory": "ourplej8stage",
+	"defaultZoom": 0.725,
+	"isPixelStage": false,
+
+	"boyfriend": [770, 100],
+	"girlfriend": [500, 150],
+	"opponent": [ 100, 100 ],
+
+	"hide_girlfriend": false
+}
