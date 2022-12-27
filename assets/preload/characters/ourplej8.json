@@ -1,0 +1,264 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "danceLeft",
+			"fps": 24,
+			"name": "ourple j8 idledance left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-43,
+				0
+			],
+			"anim": "danceRight",
+			"fps": 24,
+			"name": "ourple j8 idledance right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				120,
+				-30
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [
+				1,
+				2,
+				3,
+				4
+			],
+			"name": "ourple j8 left"
+		},
+		{
+			"offsets": [
+				-60,
+				-40
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [
+				1,
+				2,
+				3,
+				4
+			],
+			"name": "ourple j8 right"
+		},
+		{
+			"offsets": [
+				9,
+				40
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [
+				1,
+				2,
+				3,
+				4
+			],
+			"name": "ourple j8 up"
+		},
+		{
+			"offsets": [
+				10,
+				-60
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [
+				1,
+				2,
+				3,
+				4
+			],
+			"name": "ourple j8 down"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				82,
+				-29
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "ourple j8 left miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-61,
+				-46
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "ourple j8 right miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				11,
+				1
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "ourple j8 up miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-19,
+				-66
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "ourple j8 down miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-40,
+				0
+			],
+			"anim": "yeahLeft",
+			"fps": 24,
+			"name": "ourple j8 yeah left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "yeahRight",
+			"fps": 24,
+			"name": "ourple j8 yeah right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				60,
+				50
+			],
+			"anim": "hey",
+			"fps": 24,
+			"name": "ourple j8 woo",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				120,
+				-30
+			],
+			"anim": "singLEFTloop",
+			"fps": 24,
+			"name": "ourple j8 left",
+			"indices": [
+				4,
+				4
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				10,
+				40
+			],
+			"anim": "singUPloop",
+			"fps": 24,
+			"name": "ourple j8 up",
+			"indices": [
+				4,
+				4
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-60,
+				-40
+			],
+			"anim": "singRIGHTloop",
+			"fps": 24,
+			"name": "ourple j8 right",
+			"indices": [
+				4,
+				4
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				-60
+			],
+			"anim": "singDOWNloop",
+			"fps": 24,
+			"name": "ourple j8 down",
+			"indices": [
+				4,
+				4
+			]
+		},
+		{
+			"offsets": [
+				-71,
+				13
+			],
+			"loop": false,
+			"fps": 32,
+			"anim": "asriel",
+			"indices": [],
+			"name": "ourple j8 asriel"
+		},
+		{
+			"offsets": [
+				-43,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "ourple j8 idledance both"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/ourplej8-assets",
+	"position": [
+		200,
+		300
+	],
+	"healthicon": "ourplej8",
+	"flip_x": true,
+	"healthbar_colors": [
+		102,
+		204,
+		153
+	],
+	"camera_position": [
+		-60,
+		10
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				5
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "guy idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				40,
+				-73
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "guy down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				64,
+				-65
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "guy left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				31,
+				67
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "guy up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				11,
+				-31
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "guy right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/ourpleguy-assets",
+	"position": [
+		170,
+		320
+	],
+	"healthicon": "ourpleguy",
+	"flip_x": false,
+	"healthbar_colors": [
+		153,
+		102,
+		204
+	],
+	"camera_position": [
+		-30,
+		60
+	],
+	"sing_duration": 4.00000000000001,
+	"scale": 1
+}
