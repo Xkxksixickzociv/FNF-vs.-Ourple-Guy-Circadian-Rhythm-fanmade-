@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="spr_broken.png">
+	<!-- Created with Adobe Animate version 22.0.8.217 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="broken0000" x="0" y="0" width="525" height="362" frameX="0" frameY="-58" frameWidth="525" frameHeight="420"/>
+	<SubTexture name="broken0001" x="0" y="0" width="525" height="362" frameX="0" frameY="-58" frameWidth="525" frameHeight="420"/>
+	<SubTexture name="broken0002" x="526" y="0" width="467" height="420" frameX="-29" frameY="0" frameWidth="525" frameHeight="420"/>
+	<SubTexture name="broken0003" x="526" y="0" width="467" height="420" frameX="-29" frameY="0" frameWidth="525" frameHeight="420"/>
+	<SubTexture name="broken0004" x="0" y="421" width="479" height="415" frameX="-23" frameY="-5" frameWidth="525" frameHeight="420"/>
+	<SubTexture name="broken0005" x="0" y="421" width="479" height="415" frameX="-23" frameY="-5" frameWidth="525" frameHeight="420"/>
+	<SubTexture name="broken0006" x="0" y="421" width="479" height="415" frameX="-23" frameY="-5" frameWidth="525" frameHeight="420"/>
+	<SubTexture name="broken0007" x="0" y="421" width="479" height="415" frameX="-23" frameY="-5" frameWidth="525" frameHeight="420"/>
+</TextureAtlas>

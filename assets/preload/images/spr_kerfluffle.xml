@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="spr_kerfluffle.png">
+	<!-- Created with Adobe Animate version 22.0.8.217 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="kerfluffle0000" x="0" y="0" width="395" height="553" frameX="-17" frameY="0" frameWidth="429" frameHeight="553"/>
+	<SubTexture name="kerfluffle0001" x="0" y="0" width="395" height="553" frameX="-17" frameY="0" frameWidth="429" frameHeight="553"/>
+	<SubTexture name="kerfluffle0002" x="396" y="0" width="413" height="533" frameX="-8" frameY="-20" frameWidth="429" frameHeight="553"/>
+	<SubTexture name="kerfluffle0003" x="396" y="0" width="413" height="533" frameX="-8" frameY="-20" frameWidth="429" frameHeight="553"/>
+	<SubTexture name="kerfluffle0004" x="810" y="0" width="429" height="527" frameX="0" frameY="-26" frameWidth="429" frameHeight="553"/>
+	<SubTexture name="kerfluffle0005" x="810" y="0" width="429" height="527" frameX="0" frameY="-26" frameWidth="429" frameHeight="553"/>
+	<SubTexture name="kerfluffle0006" x="810" y="0" width="429" height="527" frameX="0" frameY="-26" frameWidth="429" frameHeight="553"/>
+	<SubTexture name="kerfluffle0007" x="810" y="0" width="429" height="527" frameX="0" frameY="-26" frameWidth="429" frameHeight="553"/>
+	<SubTexture name="kerfluffle0008" x="810" y="0" width="429" height="527" frameX="0" frameY="-26" frameWidth="429" frameHeight="553"/>
+</TextureAtlas>

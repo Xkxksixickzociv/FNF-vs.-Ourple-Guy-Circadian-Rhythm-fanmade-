@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="spr_fan.png">
+	<!-- Created with Adobe Animate version 22.0.8.217 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="fan0000" x="0" y="0" width="177" height="239" frameX="0" frameY="-5" frameWidth="177" frameHeight="244"/>
+	<SubTexture name="fan0001" x="0" y="0" width="177" height="239" frameX="0" frameY="-5" frameWidth="177" frameHeight="244"/>
+	<SubTexture name="fan0002" x="178" y="0" width="170" height="240" frameX="-4" frameY="-4" frameWidth="177" frameHeight="244"/>
+	<SubTexture name="fan0003" x="178" y="0" width="170" height="240" frameX="-4" frameY="-4" frameWidth="177" frameHeight="244"/>
+	<SubTexture name="fan0004" x="0" y="241" width="166" height="244" frameX="-6" frameY="0" frameWidth="177" frameHeight="244"/>
+	<SubTexture name="fan0005" x="0" y="241" width="166" height="244" frameX="-6" frameY="0" frameWidth="177" frameHeight="244"/>
+	<SubTexture name="fan0006" x="167" y="241" width="166" height="244" frameX="-6" frameY="0" frameWidth="177" frameHeight="244"/>
+	<SubTexture name="fan0007" x="167" y="241" width="166" height="244" frameX="-6" frameY="0" frameWidth="177" frameHeight="244"/>
+</TextureAtlas>

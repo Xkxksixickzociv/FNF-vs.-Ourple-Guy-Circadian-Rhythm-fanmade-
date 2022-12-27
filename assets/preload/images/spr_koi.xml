@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="spr_koi.png">
+	<!-- Created with Adobe Animate version 22.0.8.217 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="koi0000" x="0" y="0" width="358" height="369" frameX="0" frameY="-16" frameWidth="358" frameHeight="385"/>
+	<SubTexture name="koi0001" x="0" y="0" width="358" height="369" frameX="0" frameY="-16" frameWidth="358" frameHeight="385"/>
+	<SubTexture name="koi0002" x="359" y="0" width="352" height="375" frameX="-4" frameY="-10" frameWidth="358" frameHeight="385"/>
+	<SubTexture name="koi0003" x="359" y="0" width="352" height="375" frameX="-4" frameY="-10" frameWidth="358" frameHeight="385"/>
+	<SubTexture name="koi0004" x="0" y="376" width="343" height="385" frameX="-6" frameY="0" frameWidth="358" frameHeight="385"/>
+	<SubTexture name="koi0005" x="0" y="376" width="343" height="385" frameX="-6" frameY="0" frameWidth="358" frameHeight="385"/>
+	<SubTexture name="koi0006" x="0" y="376" width="343" height="385" frameX="-6" frameY="0" frameWidth="358" frameHeight="385"/>
+	<SubTexture name="koi0007" x="0" y="376" width="343" height="385" frameX="-6" frameY="0" frameWidth="358" frameHeight="385"/>
+</TextureAtlas>

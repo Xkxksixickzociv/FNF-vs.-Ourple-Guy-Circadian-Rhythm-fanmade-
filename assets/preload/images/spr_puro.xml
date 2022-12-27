@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="spr_puro.png">
+	<!-- Created with Adobe Animate version 22.0.8.217 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="puro0000" x="0" y="0" width="305" height="651" frameX="-7" frameY="0" frameWidth="319" frameHeight="651"/>
+	<SubTexture name="puro0001" x="0" y="0" width="305" height="651" frameX="-7" frameY="0" frameWidth="319" frameHeight="651"/>
+	<SubTexture name="puro0002" x="306" y="0" width="319" height="640" frameX="0" frameY="-11" frameWidth="319" frameHeight="651"/>
+	<SubTexture name="puro0003" x="306" y="0" width="319" height="640" frameX="0" frameY="-11" frameWidth="319" frameHeight="651"/>
+	<SubTexture name="puro0004" x="626" y="0" width="311" height="645" frameX="-4" frameY="-6" frameWidth="319" frameHeight="651"/>
+	<SubTexture name="puro0005" x="626" y="0" width="311" height="645" frameX="-4" frameY="-6" frameWidth="319" frameHeight="651"/>
+	<SubTexture name="puro0006" x="626" y="0" width="311" height="645" frameX="-4" frameY="-6" frameWidth="319" frameHeight="651"/>
+	<SubTexture name="puro0007" x="626" y="0" width="311" height="645" frameX="-4" frameY="-6" frameWidth="319" frameHeight="651"/>
+</TextureAtlas>

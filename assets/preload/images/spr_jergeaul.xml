@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="spr_jergeaul.png">
+	<!-- Created with Adobe Animate version 22.0.8.217 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="jergeaul0000" x="0" y="0" width="447" height="590" frameX="0" frameY="-39" frameWidth="447" frameHeight="629"/>
+	<SubTexture name="jergeaul0001" x="0" y="0" width="447" height="590" frameX="0" frameY="-39" frameWidth="447" frameHeight="629"/>
+	<SubTexture name="jergeaul0002" x="448" y="0" width="428" height="601" frameX="-14" frameY="-28" frameWidth="447" frameHeight="629"/>
+	<SubTexture name="jergeaul0003" x="448" y="0" width="428" height="601" frameX="-14" frameY="-28" frameWidth="447" frameHeight="629"/>
+	<SubTexture name="jergeaul0004" x="877" y="0" width="421" height="629" frameX="-23" frameY="0" frameWidth="447" frameHeight="629"/>
+	<SubTexture name="jergeaul0005" x="877" y="0" width="421" height="629" frameX="-23" frameY="0" frameWidth="447" frameHeight="629"/>
+	<SubTexture name="jergeaul0006" x="877" y="0" width="421" height="629" frameX="-23" frameY="0" frameWidth="447" frameHeight="629"/>
+	<SubTexture name="jergeaul0007" x="877" y="0" width="421" height="629" frameX="-23" frameY="0" frameWidth="447" frameHeight="629"/>
+</TextureAtlas>

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="spr_ironvaliant.png">
+	<!-- Created with Adobe Animate version 22.0.8.217 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="ironvaliant0000" x="0" y="0" width="517" height="604" frameX="0" frameY="-36" frameWidth="546" frameHeight="640"/>
+	<SubTexture name="ironvaliant0001" x="0" y="0" width="517" height="604" frameX="0" frameY="-36" frameWidth="546" frameHeight="640"/>
+	<SubTexture name="ironvaliant0002" x="518" y="0" width="532" height="630" frameX="-7" frameY="-10" frameWidth="546" frameHeight="640"/>
+	<SubTexture name="ironvaliant0003" x="518" y="0" width="532" height="630" frameX="-7" frameY="-10" frameWidth="546" frameHeight="640"/>
+	<SubTexture name="ironvaliant0004" x="1051" y="0" width="546" height="640"/>
+	<SubTexture name="ironvaliant0005" x="1051" y="0" width="546" height="640"/>
+	<SubTexture name="ironvaliant0006" x="0" y="641" width="541" height="638" frameX="-3" frameY="-2" frameWidth="546" frameHeight="640"/>
+	<SubTexture name="ironvaliant0007" x="0" y="641" width="541" height="638" frameX="-3" frameY="-2" frameWidth="546" frameHeight="640"/>
+</TextureAtlas>

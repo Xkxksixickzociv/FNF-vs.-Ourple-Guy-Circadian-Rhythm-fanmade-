@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="spr_senpai.png">
+	<!-- Created with Adobe Animate version 22.0.8.217 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="senpai0000" x="0" y="0" width="247" height="475" frameX="0" frameY="-12" frameWidth="247" frameHeight="487"/>
+	<SubTexture name="senpai0001" x="0" y="0" width="247" height="475" frameX="0" frameY="-12" frameWidth="247" frameHeight="487"/>
+	<SubTexture name="senpai0002" x="248" y="0" width="240" height="485" frameX="-4" frameY="-2" frameWidth="247" frameHeight="487"/>
+	<SubTexture name="senpai0003" x="248" y="0" width="240" height="485" frameX="-4" frameY="-2" frameWidth="247" frameHeight="487"/>
+	<SubTexture name="senpai0004" x="489" y="0" width="235" height="487" frameX="-6" frameY="0" frameWidth="247" frameHeight="487"/>
+	<SubTexture name="senpai0005" x="489" y="0" width="235" height="487" frameX="-6" frameY="0" frameWidth="247" frameHeight="487"/>
+	<SubTexture name="senpai0006" x="489" y="0" width="235" height="487" frameX="-6" frameY="0" frameWidth="247" frameHeight="487"/>
+	<SubTexture name="senpai0007" x="489" y="0" width="235" height="487" frameX="-6" frameY="0" frameWidth="247" frameHeight="487"/>
+</TextureAtlas>

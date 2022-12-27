@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="spr_dguy.png">
+	<!-- Created with Adobe Animate version 22.0.8.217 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="dguy0000" x="0" y="0" width="216" height="471" frameX="0" frameY="-27" frameWidth="216" frameHeight="498"/>
+	<SubTexture name="dguy0001" x="0" y="0" width="216" height="471" frameX="0" frameY="-27" frameWidth="216" frameHeight="498"/>
+	<SubTexture name="dguy0002" x="217" y="0" width="208" height="494" frameX="-4" frameY="-4" frameWidth="216" frameHeight="498"/>
+	<SubTexture name="dguy0003" x="217" y="0" width="208" height="494" frameX="-4" frameY="-4" frameWidth="216" frameHeight="498"/>
+	<SubTexture name="dguy0004" x="426" y="0" width="202" height="498" frameX="-7" frameY="0" frameWidth="216" frameHeight="498"/>
+	<SubTexture name="dguy0005" x="426" y="0" width="202" height="498" frameX="-7" frameY="0" frameWidth="216" frameHeight="498"/>
+	<SubTexture name="dguy0006" x="426" y="0" width="202" height="498" frameX="-7" frameY="0" frameWidth="216" frameHeight="498"/>
+	<SubTexture name="dguy0007" x="426" y="0" width="202" height="498" frameX="-7" frameY="0" frameWidth="216" frameHeight="498"/>
+</TextureAtlas>

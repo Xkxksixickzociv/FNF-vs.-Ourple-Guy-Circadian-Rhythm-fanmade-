@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="spr_viba.png">
+	<!-- Created with Adobe Animate version 22.0.8.217 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="viba0000" x="0" y="0" width="307" height="627" frameX="0" frameY="-32" frameWidth="313" frameHeight="659"/>
+	<SubTexture name="viba0001" x="0" y="0" width="307" height="627" frameX="0" frameY="-32" frameWidth="313" frameHeight="659"/>
+	<SubTexture name="viba0002" x="308" y="0" width="307" height="649" frameX="-4" frameY="-10" frameWidth="313" frameHeight="659"/>
+	<SubTexture name="viba0003" x="308" y="0" width="307" height="649" frameX="-4" frameY="-10" frameWidth="313" frameHeight="659"/>
+	<SubTexture name="viba0004" x="616" y="0" width="305" height="659" frameX="-8" frameY="0" frameWidth="313" frameHeight="659"/>
+	<SubTexture name="viba0005" x="616" y="0" width="305" height="659" frameX="-8" frameY="0" frameWidth="313" frameHeight="659"/>
+	<SubTexture name="viba0006" x="616" y="0" width="305" height="659" frameX="-8" frameY="0" frameWidth="313" frameHeight="659"/>
+	<SubTexture name="viba0007" x="616" y="0" width="305" height="659" frameX="-8" frameY="0" frameWidth="313" frameHeight="659"/>
+</TextureAtlas>

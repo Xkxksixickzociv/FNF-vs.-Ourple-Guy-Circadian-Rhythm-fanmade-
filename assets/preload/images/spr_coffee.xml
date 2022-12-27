@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="spr_coffee.png">
+	<!-- Created with Adobe Animate version 22.0.8.217 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="coffee0000" x="0" y="0" width="348" height="234" frameX="0" frameY="-53" frameWidth="348" frameHeight="287"/>
+	<SubTexture name="coffee0001" x="0" y="0" width="348" height="234" frameX="0" frameY="-53" frameWidth="348" frameHeight="287"/>
+	<SubTexture name="coffee0002" x="349" y="0" width="330" height="242" frameX="-7" frameY="-45" frameWidth="348" frameHeight="287"/>
+	<SubTexture name="coffee0003" x="349" y="0" width="330" height="242" frameX="-7" frameY="-45" frameWidth="348" frameHeight="287"/>
+	<SubTexture name="coffee0004" x="680" y="0" width="260" height="287" frameX="-20" frameY="0" frameWidth="348" frameHeight="287"/>
+	<SubTexture name="coffee0005" x="680" y="0" width="260" height="287" frameX="-20" frameY="0" frameWidth="348" frameHeight="287"/>
+	<SubTexture name="coffee0006" x="0" y="288" width="277" height="284" frameX="-15" frameY="-3" frameWidth="348" frameHeight="287"/>
+	<SubTexture name="coffee0007" x="0" y="288" width="277" height="284" frameX="-15" frameY="-3" frameWidth="348" frameHeight="287"/>
+</TextureAtlas>

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="spr_jaylung.png">
+	<!-- Created with Adobe Animate version 22.0.8.217 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="jaylung0000" x="0" y="0" width="357" height="648" frameX="-18" frameY="0" frameWidth="393" frameHeight="648"/>
+	<SubTexture name="jaylung0001" x="0" y="0" width="357" height="648" frameX="-18" frameY="0" frameWidth="393" frameHeight="648"/>
+	<SubTexture name="jaylung0002" x="358" y="0" width="361" height="633" frameX="-16" frameY="-15" frameWidth="393" frameHeight="648"/>
+	<SubTexture name="jaylung0003" x="358" y="0" width="361" height="633" frameX="-16" frameY="-15" frameWidth="393" frameHeight="648"/>
+	<SubTexture name="jaylung0004" x="720" y="0" width="393" height="611" frameX="0" frameY="-37" frameWidth="393" frameHeight="648"/>
+	<SubTexture name="jaylung0005" x="720" y="0" width="393" height="611" frameX="0" frameY="-37" frameWidth="393" frameHeight="648"/>
+	<SubTexture name="jaylung0006" x="1114" y="0" width="385" height="617" frameX="-4" frameY="-31" frameWidth="393" frameHeight="648"/>
+	<SubTexture name="jaylung0007" x="1114" y="0" width="385" height="617" frameX="-4" frameY="-31" frameWidth="393" frameHeight="648"/>
+</TextureAtlas>

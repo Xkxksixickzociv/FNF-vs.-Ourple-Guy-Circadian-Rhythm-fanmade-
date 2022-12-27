@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="spr_sheepman.png">
+	<!-- Created with Adobe Animate version 22.0.7.214 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="sheepman0000" x="4" y="4" width="297" height="458" frameX="0" frameY="-21" frameWidth="297" frameHeight="479"/>
+	<SubTexture name="sheepman0001" x="4" y="4" width="297" height="458" frameX="0" frameY="-21" frameWidth="297" frameHeight="479"/>
+	<SubTexture name="sheepman0002" x="305" y="4" width="293" height="474" frameX="-3" frameY="-5" frameWidth="297" frameHeight="479"/>
+	<SubTexture name="sheepman0003" x="305" y="4" width="293" height="474" frameX="-3" frameY="-5" frameWidth="297" frameHeight="479"/>
+	<SubTexture name="sheepman0004" x="602" y="4" width="292" height="479" frameX="-5" frameY="0" frameWidth="297" frameHeight="479"/>
+	<SubTexture name="sheepman0005" x="602" y="4" width="292" height="479" frameX="-5" frameY="0" frameWidth="297" frameHeight="479"/>
+	<SubTexture name="sheepman0006" x="602" y="4" width="292" height="479" frameX="-5" frameY="0" frameWidth="297" frameHeight="479"/>
+	<SubTexture name="sheepman0007" x="602" y="4" width="292" height="479" frameX="-5" frameY="0" frameWidth="297" frameHeight="479"/>
+</TextureAtlas>

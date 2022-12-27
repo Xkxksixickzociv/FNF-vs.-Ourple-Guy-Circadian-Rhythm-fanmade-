@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="spr_sherri.png">
+	<!-- Created with Adobe Animate version 22.0.8.217 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="sherri0000" x="0" y="0" width="280" height="424" frameX="0" frameY="-6" frameWidth="280" frameHeight="430"/>
+	<SubTexture name="sherri0001" x="0" y="0" width="280" height="424" frameX="0" frameY="-6" frameWidth="280" frameHeight="430"/>
+	<SubTexture name="sherri0002" x="281" y="0" width="276" height="429" frameX="-2" frameY="-1" frameWidth="280" frameHeight="430"/>
+	<SubTexture name="sherri0003" x="281" y="0" width="276" height="429" frameX="-2" frameY="-1" frameWidth="280" frameHeight="430"/>
+	<SubTexture name="sherri0004" x="558" y="0" width="270" height="430" frameX="-5" frameY="0" frameWidth="280" frameHeight="430"/>
+	<SubTexture name="sherri0005" x="558" y="0" width="270" height="430" frameX="-5" frameY="0" frameWidth="280" frameHeight="430"/>
+	<SubTexture name="sherri0006" x="558" y="0" width="270" height="430" frameX="-5" frameY="0" frameWidth="280" frameHeight="430"/>
+	<SubTexture name="sherri0007" x="558" y="0" width="270" height="430" frameX="-5" frameY="0" frameWidth="280" frameHeight="430"/>
+</TextureAtlas>

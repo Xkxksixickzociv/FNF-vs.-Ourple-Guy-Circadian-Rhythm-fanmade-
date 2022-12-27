@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="spr_tronbonne.png">
+	<!-- Created with Adobe Animate version 22.0.8.217 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="tronbonne0000" x="0" y="0" width="277" height="453" frameX="-9" frameY="0" frameWidth="295" frameHeight="453"/>
+	<SubTexture name="tronbonne0001" x="0" y="0" width="277" height="453" frameX="-9" frameY="0" frameWidth="295" frameHeight="453"/>
+	<SubTexture name="tronbonne0002" x="278" y="0" width="281" height="438" frameX="-7" frameY="-15" frameWidth="295" frameHeight="453"/>
+	<SubTexture name="tronbonne0003" x="278" y="0" width="281" height="438" frameX="-7" frameY="-15" frameWidth="295" frameHeight="453"/>
+	<SubTexture name="tronbonne0004" x="560" y="0" width="295" height="425" frameX="0" frameY="-28" frameWidth="295" frameHeight="453"/>
+	<SubTexture name="tronbonne0005" x="560" y="0" width="295" height="425" frameX="0" frameY="-28" frameWidth="295" frameHeight="453"/>
+	<SubTexture name="tronbonne0006" x="0" y="454" width="291" height="427" frameX="-2" frameY="-26" frameWidth="295" frameHeight="453"/>
+	<SubTexture name="tronbonne0007" x="0" y="454" width="291" height="427" frameX="-2" frameY="-26" frameWidth="295" frameHeight="453"/>
+</TextureAtlas>

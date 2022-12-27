@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="spr_ragtime.png">
+	<!-- Created with Adobe Animate version 22.0.8.217 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="ragtime0000" x="0" y="0" width="269" height="265" frameX="0" frameY="-33" frameWidth="269" frameHeight="298"/>
+	<SubTexture name="ragtime0001" x="0" y="0" width="269" height="265" frameX="0" frameY="-33" frameWidth="269" frameHeight="298"/>
+	<SubTexture name="ragtime0002" x="270" y="0" width="259" height="286" frameX="-5" frameY="-12" frameWidth="269" frameHeight="298"/>
+	<SubTexture name="ragtime0003" x="270" y="0" width="259" height="286" frameX="-5" frameY="-12" frameWidth="269" frameHeight="298"/>
+	<SubTexture name="ragtime0004" x="530" y="0" width="247" height="298" frameX="-11" frameY="0" frameWidth="269" frameHeight="298"/>
+	<SubTexture name="ragtime0005" x="530" y="0" width="247" height="298" frameX="-11" frameY="0" frameWidth="269" frameHeight="298"/>
+	<SubTexture name="ragtime0006" x="0" y="299" width="253" height="295" frameX="-8" frameY="-3" frameWidth="269" frameHeight="298"/>
+	<SubTexture name="ragtime0007" x="0" y="299" width="253" height="295" frameX="-8" frameY="-3" frameWidth="269" frameHeight="298"/>
+</TextureAtlas>

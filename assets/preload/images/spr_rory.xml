@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="spr_rory.png">
+	<!-- Created with Adobe Animate version 22.0.8.217 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="rory0000" x="0" y="0" width="312" height="412" frameX="0" frameY="-31" frameWidth="312" frameHeight="443"/>
+	<SubTexture name="rory0001" x="0" y="0" width="312" height="412" frameX="0" frameY="-31" frameWidth="312" frameHeight="443"/>
+	<SubTexture name="rory0002" x="313" y="0" width="293" height="422" frameX="-6" frameY="-21" frameWidth="312" frameHeight="443"/>
+	<SubTexture name="rory0003" x="313" y="0" width="293" height="422" frameX="-6" frameY="-21" frameWidth="312" frameHeight="443"/>
+	<SubTexture name="rory0004" x="607" y="0" width="283" height="443" frameX="-8" frameY="0" frameWidth="312" frameHeight="443"/>
+	<SubTexture name="rory0005" x="607" y="0" width="283" height="443" frameX="-8" frameY="0" frameWidth="312" frameHeight="443"/>
+	<SubTexture name="rory0006" x="607" y="0" width="283" height="443" frameX="-8" frameY="0" frameWidth="312" frameHeight="443"/>
+	<SubTexture name="rory0007" x="607" y="0" width="283" height="443" frameX="-8" frameY="0" frameWidth="312" frameHeight="443"/>
+</TextureAtlas>

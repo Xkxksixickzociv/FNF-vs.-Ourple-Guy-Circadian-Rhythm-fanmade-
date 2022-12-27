@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="spr_pink.png">
+	<!-- Created with Adobe Animate version 22.0.8.217 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="pink0000" x="0" y="0" width="459" height="274" frameX="0" frameY="-31" frameWidth="459" frameHeight="305"/>
+	<SubTexture name="pink0001" x="0" y="0" width="459" height="274" frameX="0" frameY="-31" frameWidth="459" frameHeight="305"/>
+	<SubTexture name="pink0002" x="460" y="0" width="424" height="296" frameX="-12" frameY="-9" frameWidth="459" frameHeight="305"/>
+	<SubTexture name="pink0003" x="460" y="0" width="424" height="296" frameX="-12" frameY="-9" frameWidth="459" frameHeight="305"/>
+	<SubTexture name="pink0004" x="0" y="297" width="417" height="305" frameX="-13" frameY="0" frameWidth="459" frameHeight="305"/>
+	<SubTexture name="pink0005" x="0" y="297" width="417" height="305" frameX="-13" frameY="0" frameWidth="459" frameHeight="305"/>
+	<SubTexture name="pink0006" x="0" y="297" width="417" height="305" frameX="-13" frameY="0" frameWidth="459" frameHeight="305"/>
+	<SubTexture name="pink0007" x="0" y="297" width="417" height="305" frameX="-13" frameY="0" frameWidth="459" frameHeight="305"/>
+</TextureAtlas>

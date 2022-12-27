@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="spr_theft.png">
+	<!-- Created with Adobe Animate version 22.0.8.217 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="theft0000" x="0" y="0" width="222" height="275" frameX="0" frameY="-21" frameWidth="222" frameHeight="296"/>
+	<SubTexture name="theft0001" x="0" y="0" width="222" height="275" frameX="0" frameY="-21" frameWidth="222" frameHeight="296"/>
+	<SubTexture name="theft0002" x="223" y="0" width="206" height="292" frameX="-4" frameY="-4" frameWidth="222" frameHeight="296"/>
+	<SubTexture name="theft0003" x="223" y="0" width="206" height="292" frameX="-4" frameY="-4" frameWidth="222" frameHeight="296"/>
+	<SubTexture name="theft0004" x="430" y="0" width="201" height="296" frameX="-7" frameY="0" frameWidth="222" frameHeight="296"/>
+	<SubTexture name="theft0005" x="430" y="0" width="201" height="296" frameX="-7" frameY="0" frameWidth="222" frameHeight="296"/>
+	<SubTexture name="theft0006" x="430" y="0" width="201" height="296" frameX="-7" frameY="0" frameWidth="222" frameHeight="296"/>
+	<SubTexture name="theft0007" x="430" y="0" width="201" height="296" frameX="-7" frameY="0" frameWidth="222" frameHeight="296"/>
+</TextureAtlas>

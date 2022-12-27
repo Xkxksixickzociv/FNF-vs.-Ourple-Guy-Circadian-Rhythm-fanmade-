@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="spr_cutmandy.png">
+	<!-- Created with Adobe Animate version 22.0.8.217 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="cutmandy0000" x="0" y="0" width="309" height="468" frameX="0" frameY="-26" frameWidth="311" frameHeight="494"/>
+	<SubTexture name="cutmandy0001" x="0" y="0" width="309" height="468" frameX="0" frameY="-26" frameWidth="311" frameHeight="494"/>
+	<SubTexture name="cutmandy0002" x="310" y="0" width="305" height="484" frameX="-6" frameY="-10" frameWidth="311" frameHeight="494"/>
+	<SubTexture name="cutmandy0003" x="310" y="0" width="305" height="484" frameX="-6" frameY="-10" frameWidth="311" frameHeight="494"/>
+	<SubTexture name="cutmandy0004" x="616" y="0" width="286" height="494" frameX="-8" frameY="0" frameWidth="311" frameHeight="494"/>
+	<SubTexture name="cutmandy0005" x="616" y="0" width="286" height="494" frameX="-8" frameY="0" frameWidth="311" frameHeight="494"/>
+	<SubTexture name="cutmandy0006" x="0" y="495" width="288" height="494" frameX="-8" frameY="0" frameWidth="311" frameHeight="494"/>
+	<SubTexture name="cutmandy0007" x="0" y="495" width="288" height="494" frameX="-8" frameY="0" frameWidth="311" frameHeight="494"/>
+</TextureAtlas>

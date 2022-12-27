@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="spr_gamma.png">
+	<!-- Created with Adobe Animate version 22.0.8.217 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="gamma0000" x="0" y="0" width="431" height="594" frameX="0" frameY="-21" frameWidth="431" frameHeight="615"/>
+	<SubTexture name="gamma0001" x="0" y="0" width="431" height="594" frameX="0" frameY="-21" frameWidth="431" frameHeight="615"/>
+	<SubTexture name="gamma0002" x="432" y="0" width="417" height="612" frameX="-7" frameY="-3" frameWidth="431" frameHeight="615"/>
+	<SubTexture name="gamma0003" x="432" y="0" width="417" height="612" frameX="-7" frameY="-3" frameWidth="431" frameHeight="615"/>
+	<SubTexture name="gamma0004" x="850" y="0" width="411" height="615" frameX="-10" frameY="0" frameWidth="431" frameHeight="615"/>
+	<SubTexture name="gamma0005" x="850" y="0" width="411" height="615" frameX="-10" frameY="0" frameWidth="431" frameHeight="615"/>
+	<SubTexture name="gamma0006" x="850" y="0" width="411" height="615" frameX="-10" frameY="0" frameWidth="431" frameHeight="615"/>
+	<SubTexture name="gamma0007" x="850" y="0" width="411" height="615" frameX="-10" frameY="0" frameWidth="431" frameHeight="615"/>
+</TextureAtlas>

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="spr_dod.png">
+	<!-- Created with Adobe Animate version 22.0.8.217 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="dod0000" x="0" y="0" width="208" height="411" frameX="0" frameY="-10" frameWidth="208" frameHeight="421"/>
+	<SubTexture name="dod0001" x="0" y="0" width="208" height="411" frameX="0" frameY="-10" frameWidth="208" frameHeight="421"/>
+	<SubTexture name="dod0002" x="209" y="0" width="207" height="416" frameX="0" frameY="-5" frameWidth="208" frameHeight="421"/>
+	<SubTexture name="dod0003" x="209" y="0" width="207" height="416" frameX="0" frameY="-5" frameWidth="208" frameHeight="421"/>
+	<SubTexture name="dod0004" x="417" y="0" width="205" height="421" frameX="0" frameY="0" frameWidth="208" frameHeight="421"/>
+	<SubTexture name="dod0005" x="417" y="0" width="205" height="421" frameX="0" frameY="0" frameWidth="208" frameHeight="421"/>
+	<SubTexture name="dod0006" x="417" y="0" width="205" height="421" frameX="0" frameY="0" frameWidth="208" frameHeight="421"/>
+	<SubTexture name="dod0007" x="417" y="0" width="205" height="421" frameX="0" frameY="0" frameWidth="208" frameHeight="421"/>
+</TextureAtlas>

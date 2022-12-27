@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="spr_toychica.png">
+	<!-- Created with Adobe Animate version 22.0.8.217 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="toychica0000" x="0" y="0" width="221" height="442" frameX="-11" frameY="0" frameWidth="239" frameHeight="442"/>
+	<SubTexture name="toychica0001" x="0" y="0" width="221" height="442" frameX="-11" frameY="0" frameWidth="239" frameHeight="442"/>
+	<SubTexture name="toychica0002" x="222" y="0" width="225" height="434" frameX="-9" frameY="-8" frameWidth="239" frameHeight="442"/>
+	<SubTexture name="toychica0003" x="222" y="0" width="225" height="434" frameX="-9" frameY="-8" frameWidth="239" frameHeight="442"/>
+	<SubTexture name="toychica0004" x="448" y="0" width="239" height="418" frameX="0" frameY="-24" frameWidth="239" frameHeight="442"/>
+	<SubTexture name="toychica0005" x="448" y="0" width="239" height="418" frameX="0" frameY="-24" frameWidth="239" frameHeight="442"/>
+	<SubTexture name="toychica0006" x="688" y="0" width="235" height="422" frameX="-4" frameY="-20" frameWidth="239" frameHeight="442"/>
+	<SubTexture name="toychica0007" x="688" y="0" width="235" height="422" frameX="-4" frameY="-20" frameWidth="239" frameHeight="442"/>
+</TextureAtlas>

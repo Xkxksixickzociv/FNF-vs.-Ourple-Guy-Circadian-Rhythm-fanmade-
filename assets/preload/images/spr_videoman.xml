@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="spr_videoman.png">
+	<!-- Created with Adobe Animate version 22.0.8.217 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="videoman0000" x="0" y="0" width="295" height="457" frameX="-15" frameY="0" frameWidth="325" frameHeight="457"/>
+	<SubTexture name="videoman0001" x="0" y="0" width="295" height="457" frameX="-15" frameY="0" frameWidth="325" frameHeight="457"/>
+	<SubTexture name="videoman0002" x="296" y="0" width="311" height="433" frameX="-7" frameY="-24" frameWidth="325" frameHeight="457"/>
+	<SubTexture name="videoman0003" x="296" y="0" width="311" height="433" frameX="-7" frameY="-24" frameWidth="325" frameHeight="457"/>
+	<SubTexture name="videoman0004" x="608" y="0" width="325" height="421" frameX="0" frameY="-36" frameWidth="325" frameHeight="457"/>
+	<SubTexture name="videoman0005" x="608" y="0" width="325" height="421" frameX="0" frameY="-36" frameWidth="325" frameHeight="457"/>
+	<SubTexture name="videoman0006" x="608" y="0" width="325" height="421" frameX="0" frameY="-36" frameWidth="325" frameHeight="457"/>
+	<SubTexture name="videoman0007" x="608" y="0" width="325" height="421" frameX="0" frameY="-36" frameWidth="325" frameHeight="457"/>
+</TextureAtlas>

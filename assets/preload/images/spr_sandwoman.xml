@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="spr_sandwoman.png">
+	<!-- Created with Adobe Animate version 22.0.8.217 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="sandwoman0000" x="0" y="0" width="419" height="499" frameX="0" frameY="-24" frameWidth="419" frameHeight="523"/>
+	<SubTexture name="sandwoman0001" x="0" y="0" width="419" height="499" frameX="0" frameY="-24" frameWidth="419" frameHeight="523"/>
+	<SubTexture name="sandwoman0002" x="420" y="0" width="404" height="516" frameX="-8" frameY="-7" frameWidth="419" frameHeight="523"/>
+	<SubTexture name="sandwoman0003" x="420" y="0" width="404" height="516" frameX="-8" frameY="-7" frameWidth="419" frameHeight="523"/>
+	<SubTexture name="sandwoman0004" x="825" y="0" width="397" height="523" frameX="-12" frameY="0" frameWidth="419" frameHeight="523"/>
+	<SubTexture name="sandwoman0005" x="825" y="0" width="397" height="523" frameX="-12" frameY="0" frameWidth="419" frameHeight="523"/>
+	<SubTexture name="sandwoman0006" x="825" y="0" width="397" height="523" frameX="-12" frameY="0" frameWidth="419" frameHeight="523"/>
+	<SubTexture name="sandwoman0007" x="825" y="0" width="397" height="523" frameX="-12" frameY="0" frameWidth="419" frameHeight="523"/>
+</TextureAtlas>
